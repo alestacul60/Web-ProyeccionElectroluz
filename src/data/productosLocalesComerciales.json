@@ -1,0 +1,111 @@
+[
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/bombas_y_centrifugas.jpg",
+    "titulo": "Electrobombas",
+    "marca": "Presurizadoras",
+    "modelo": "Centrífugas",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Reconquista",
+    "whatsapp": "5493482611082"
+  },
+  {
+    "alt": "imagen",
+    "titulo": "Interruptores",
+    "img": "../assets/images/ventadeproductos/termicas.jpg",
+    "marca": "Termomagnéticos",
+    "modelo": "Multimarca",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Reconquista",
+    "whatsapp": "5493482611082"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/disyuntores.jpg",
+    "titulo": "Interruptores",
+    "marca": "Diferenciales",
+    "modelo": "Multimarca",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Reconquista",
+    "whatsapp": "5493482611082"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/gabinetes.jpg",
+    "titulo": "Gabinetes",
+    "marca": "Modulares",
+    "modelo": "Rackeables - Empotrables",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Avellaneda",
+    "whatsapp": "5493482656025"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/cajas_puntos_teclas.jpg",
+    "titulo": "Teclas-Tomas-Puntos",
+    "marca": "Exult",
+    "modelo": "Urbana",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Avellaneda",
+    "whatsapp": "5493482656025"
+  },
+
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/canieria_linea_liviana.jpg",
+    "titulo": "Cañería Liviana",
+    "marca": "Seguras",
+    "modelo": "Accesorios",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Reconquista",
+    "whatsapp": "5493482611082"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/iluminacion_decorativa.jpg",
+    "titulo": "Iluminación",
+    "marca": "Interior",
+    "modelo": "Decorativa - Multimarca",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Avellaneda",
+    "whatsapp": "5493482656025"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/proyectores_industrial.jpg",
+    "titulo": "Iluminación",
+    "marca": "Proyectores - Int./Ext.",
+    "modelo": "Multimarca",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Avellaneda",
+    "whatsapp": "5493482656025"
+  },
+  {
+    "alt": "imagen",
+    "img": "../assets/images/ventadeproductos/iluminacion_colgante_industrial.jpg",
+    "titulo": "Iluminación",
+    "marca": "Colgantes",
+    "modelo": "Industriales",
+    "descuento": "0",
+    "preciooriginal": "0",
+    "preciocondescuento": "0",
+    "sucursal": "Reconquista",
+    "whatsapp": "5493482611082"
+  }
+]

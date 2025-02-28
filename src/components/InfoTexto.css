@@ -1,0 +1,20 @@
+.colorlink {
+  text-decoration: none;
+  color: var(--blueNeored);
+}
+
+.colorlink:hover {
+  color: var(--blueOscuro);
+}
+
+ol {
+  padding: 0;
+}
+
+p {
+  font-weight: 400;
+}
+
+paddingderecho {
+  padding-right: 5rem;
+}

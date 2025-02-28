@@ -1,0 +1,91 @@
+{
+  "name": "proyeccion-electroluz-site",
+  "private": true,
+  "description": "Nuevo sition de Proyeccion Electroluz",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@react-icons/all-files": "^4.1.0",
+    "ansi-html": "^0.0.7",
+    "ansi-regex": "^6.0.1",
+    "aos": "^2.3.4",
+    "async": "^3.2.3",
+    "babel-plugin-styled-components": "^1.13.3",
+    "bootstrap": "^5.1.3",
+    "browserslist": "^4.20.3",
+    "cacache": "^16.1.1",
+    "cross-fetch": "^3.1.5",
+    "dicer": "^0.3.1",
+    "engine.io": "^6.1.3",
+    "follow-redirects": "^1.14.9",
+    "gatsby": "^4.15.2",
+    "gatsby-background-image": "^1.6.0",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-mdx": "^3.5.1",
+    "gatsby-plugin-react-helmet": "^5.0.0",
+    "gatsby-plugin-sharp": "^4.15.1",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "gatsby-plugin-styled-components": "^5.0.0",
+    "gatsby-react-router-scroll": "^5.0.0",
+    "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-transformer-json": "^4.0.0",
+    "gatsby-transformer-sharp": "^4.0.0",
+    "gbimage-bridge": "^0.1.4",
+    "immer": "^9.0.14",
+    "lmdb-store": "^1.6.14",
+    "minimist": "^1.2.6",
+    "moment": "^2.29.3",
+    "nanoid": "^3.3.4",
+    "node-fetch": "^2.6.7",
+    "npm": "^8.12.1",
+    "nth-check": "^2.1.1",
+    "object-path": "^0.11.8",
+    "postcss": "^8.4.5",
+    "react": "^17.0.1",
+    "react-bootstrap": "^2.0.0",
+    "react-dom": "^17.0.1",
+    "react-elastic-carousel": "^0.11.5",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.3.1",
+    "react-simple-typewriter": "^3.0.1",
+    "react-slick": "^0.28.1",
+    "sharp": "^0.30.6",
+    "simple-get": "^4.0.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.3",
+    "trim": "^1.0.1",
+    "ws": "^8.6.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6"
+  }
+}

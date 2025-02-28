@@ -1,0 +1,39 @@
+/* square buttons */
+
+.rec.rec-arrow {
+  border-radius: 50%;
+  background-color: var(--white);
+  color: var(--blueOscuro);
+  box-shadow: 0 0 0 0px white;
+}
+
+.rec.rec-arrow:hover:enabled,
+.rec.rec-arrow:focus:enabled {
+  box-shadow: 0 0 0 0px white;
+  background-color: var(--white);
+  color: var(--blueOscuro);
+}
+
+.rec.rec-arrow:disabled {
+  visibility: hidden;
+}
+/* round buttons on hover */
+
+button.rec-dot:focus {
+  border-radius: 50%;
+  background-color: var(--blueNeored) !important;
+  color: var(--blueOscuro) !important;
+  box-shadow: 0 0 1px 3px var(--blueNeored) !important;
+}
+/* hide disabled buttons */
+
+button.rec-dot {
+  background-color: var(--blueOscuro);
+  box-shadow: 0 0 1px 3px var(--grisoscuro);
+}
+
+button.rec-dot:hover,
+button.rec-dot:active,
+button.rec-dot:focus {
+  box-shadow: 0 0 1px 3px var(--grisoscuro);
+}

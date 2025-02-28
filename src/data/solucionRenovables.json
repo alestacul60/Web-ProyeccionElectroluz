@@ -1,0 +1,38 @@
+[
+  {
+    "alt": "Parques Solares",
+    "thumbnail": "../assets/images/renovables-categorias/parquessolar.jpg",
+    "titulo": "Parques Solares",
+    "subtitulo": false,
+    "tituloGris": false,
+    "descripcion": false,
+    "ruta": "/renovable/parques-solares/"
+  },
+  {
+    "alt": "Parques Eólicos",
+    "thumbnail": "../assets/images/renovables-categorias/parqueeolico.jpg",
+    "titulo": "Parques Eólicos",
+    "subtitulo": false,
+    "tituloGris": false,
+    "ruta": "/renovable/parques-eolicos/",
+    "descripcion": false
+  },
+  {
+    "alt": "Plantas de Biomas - Biogas",
+    "thumbnail": "../assets/images/renovables-categorias/biomasa.jpg",
+    "titulo": "Plantas de Biomas - Biogas",
+    "subtitulo": false,
+    "tituloGris": false,
+    "descripcion": false,
+    "ruta": "/renovable/biomasa/"
+  },
+  {
+    "alt": "Smart Grid",
+    "thumbnail": "../assets/images/renovables-categorias/smartgrid.jpg",
+    "titulo": "Smart Grid",
+    "subtitulo": false,
+    "tituloGris": false,
+    "descripcion": false,
+    "ruta": "/renovable/smartgrid/"
+  }
+]

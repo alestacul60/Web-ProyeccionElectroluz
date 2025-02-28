@@ -1,0 +1,92 @@
+.btn {
+  border-radius: 0;
+}
+
+.btn-outline-primary {
+  color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+.btn-check:focus + .btn-outline-primary,
+.btn-outline-primary:focus {
+  box-shadow: 0 0 0 0.25rem var(--blueOscuro);
+}
+.btn-check:active + .btn-outline-primary,
+.btn-check:checked + .btn-outline-primary,
+.btn-outline-primary.active,
+.btn-outline-primary.dropdown-toggle.show,
+.btn-outline-primary:active {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+.btn-check:active + .btn-outline-primary:focus,
+.btn-check:checked + .btn-outline-primary:focus,
+.btn-outline-primary.active:focus,
+.btn-outline-primary.dropdown-toggle.show:focus,
+.btn-outline-primary:active:focus {
+  box-shadow: 0 0 0 0.25rem var(--blueOscuro);
+}
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled {
+  color: var(--blueOscuro);
+  background-color: transparent;
+}
+.btn-check:focus + .btn-outline-primary,
+.btn-outline-primary:focus {
+  box-shadow: 0 0 0 0 var(--blueOscuro);
+}
+/*-----------------------------------*/
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+.btn-check:focus + .btn-primary,
+.btn-primary:focus {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+  box-shadow: 0 0 0 0.25rem var(--blueOscuro);
+}
+.btn-check:active + .btn-primary,
+.btn-check:checked + .btn-primary,
+.btn-primary.active,
+.btn-primary:active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+.btn-check:active + .btn-primary:focus,
+.btn-check:checked + .btn-primary:focus,
+.btn-primary.active:focus,
+.btn-primary:active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem var(--blueOscuro);
+}
+.btn-primary.disabled,
+.btn-primary:disabled {
+  color: #fff;
+  background-color: var(--blueOscuro);
+  border-color: var(--blueOscuro);
+}
+
+.card-footer {
+  padding: 0.5rem 0;
+}
+
+.modal-footer {
+  justify-content: space-between;
+}

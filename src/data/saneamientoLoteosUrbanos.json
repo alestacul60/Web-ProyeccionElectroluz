@@ -1,0 +1,54 @@
+[
+  {
+    "alt": "ELÉCTRICO",
+    "thumbnail": "../assets/images/saneamiento/saneamiento-items/electricos.jpg",
+    "titulo": "ELÉCTRICO",
+    "ruta": "/renovable/sistema-on-grid/",
+    "items": [
+      "Redes Eléctricas",
+      "Iluminación Led",
+      "Automatismo",
+      "Sistemas de Vigilancia",
+      "Energías Renovables"
+    ]
+  },
+  {
+    "alt": "CIVIL",
+    "thumbnail": "../assets/images/saneamiento/saneamiento-items/civil.jpg",
+    "titulo": "CIVIL",
+    "tituloGris": "Sistema Híbrido",
+    "ruta": "/renovable/sistema-hibrido/",
+    "items": [
+      "Apertura de Calles",
+      "Caminos Rurales",
+      "Pavimento Urbano",
+      "Cordón Cuneta"
+    ]
+  },
+
+  {
+    "alt": "SANEAMIENTO",
+    "thumbnail": "../assets/images/saneamiento/saneamiento-items/saneamiento.jpg",
+    "titulo": "SANEAMIENTO",
+
+    "ruta": "/renovable/sistema-offgrid/",
+    "items": [
+      "Redes de distribución de agua potable",
+      "Redes colectoras cloacales",
+      "Plantas de tratamiento de agua",
+      "Plantas de tratamiento de elfuentes domiciliares e industriales."
+    ]
+  },
+  {
+    "alt": "HIDRÁULICO",
+    "thumbnail": "../assets/images/saneamiento/saneamiento-items/hidraulica.jpg",
+    "titulo": "HIDRÁULICO",
+
+    "ruta": "/renovable/sistema-offgrid/",
+    "items": [
+      "Sistemas de desagüe pluvial urbano",
+      "Canales rurales y alcantarillas",
+      "Obras de captación de agua subterránea y superficial"
+    ]
+  }
+]

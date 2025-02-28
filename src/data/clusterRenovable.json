@@ -1,0 +1,25 @@
+[
+  {
+    "alt": "Parques Eólicos",
+    "titulo": "Obras de Energías Renovables",
+    "desafio": "Nuestros desafios abarcan:",
+    "desafios": ["Parques Eólicos", ""],
+
+    "img": "../assets/images/renovables/imagen1.jpg"
+  },
+  {
+    "alt": "Parques Solares ",
+    "titulo": "Obras de Energías Renovables",
+    "desafio": "Nuestros desafios abarcan:",
+    "desafios": ["Parques Solares", ""],
+
+    "img": "../assets/images/renovables/imagen2.jpg"
+  },
+  {
+    "alt": "Plantas de Biomasa",
+    "titulo": "Obras de Energías Renovables",
+    "desafio": "Nuestros desafios abarcan:",
+    "desafios": ["Plantas de Biomasa", ""],
+    "img": "../assets/images/renovables/imagen4.jpg"
+  }
+]

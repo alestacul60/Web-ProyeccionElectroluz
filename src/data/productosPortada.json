@@ -1,0 +1,68 @@
+[
+  {
+    "alt": "Celda 33Kv",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Celda33kv.jpg",
+    "titulo": "Celda MT 33Kv",
+    "subtitulo": "CB33V-LI/LR",
+    "ruta": "/fabrica/celda-mt-33kv"
+  },
+  {
+    "alt": "Celda 13-2Kv",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Celda_MT_13-2.jpg",
+    "titulo": "Celda MT 13.2Kv",
+    "subtitulo": "CB15V-LI/LR",
+    "ruta": "/fabrica/celda-mt-13-2kv"
+  },
+
+  {
+    "alt": "Tablero general de baja tension",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Tgbt.jpg",
+    "titulo": "Tableros BT",
+    "subtitulo": "T.G.B.T",
+    "ruta": "/fabrica/tablero-bt-tgbt"
+  },
+  {
+    "alt": "Ccm centro de control de motores",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Tableros_Ccm.jpg",
+    "titulo": "Tableros BT",
+    "subtitulo": "C.C.M",
+    "ruta": "/fabrica/tablero-bt-ccm"
+  },
+
+  {
+    "alt": "Electrocentros",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Electrocentros_shelter.jpg",
+    "titulo": "Electrocentros",
+    "subtitulo": "Modulares",
+    "ruta": "/fabrica/electrocentros"
+  },
+
+  {
+    "alt": "Bandejas Portacables Escalera",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Bandeja_Escalera.jpg",
+    "titulo": "Bandeja Portacables",
+    "subtitulo": "Tipo Escalera",
+    "ruta": "/fabrica/bandeja-escalera"
+  },
+  {
+    "alt": "Bandejas Portacables Perforadas",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Bandeja_Perforada.jpg",
+    "titulo": "Bandeja Portacables",
+    "subtitulo": "Tipo Perforada",
+    "ruta": "/fabrica/bandeja-perforada"
+  },
+  {
+    "alt": "Columnas de iluminacion",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Columnas_Iluminacion.jpg",
+    "titulo": "Columnas",
+    "subtitulo": "de Iluminación",
+    "ruta": "/fabrica/iluminacion-columnas"
+  },
+  {
+    "alt": "Torres de Iluminación",
+    "img": "../assets/images/fabrica/productos/portadaproductos/Portada_Torres_Iluminacion.jpg",
+    "titulo": "Torres",
+    "subtitulo": "de Iluminación",
+    "ruta": "/fabrica/iluminacion-torres"
+  }
+]

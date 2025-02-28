@@ -1,0 +1,30 @@
+[
+  {
+    "alt": "SISTEMA ON GRID",
+    "thumbnail": "../assets/images/renovables-categorias/sistema_ongrid.jpg",
+    "titulo": "Generación distribuida para control de inyección y autoconsumo",
+    "subtitulo": false,
+    "tituloGris": "Sistemas On Grid",
+    "descripcion": "Son las instalaciones fotovoltaicas que están conectadas a la red eléctrica de la empresa distribuidora. El exceso de energía se inyecta a la red eléctrica. La energía generada se paga a un precio mayorista.",
+    "ruta": "/renovable/sistema-on-grid/"
+  },
+  {
+    "alt": "SISTEMA HIBRIDO",
+    "thumbnail": "../assets/images/renovables-categorias/sistema_hibrido.jpg",
+    "titulo": "Ahorre hasta un 80% de su consumo de energía",
+    "subtitulo": false,
+    "tituloGris": "Sistema Híbrido",
+    "descripcion": "Son las instalaciones fotovoltaicas que están conectadas a la red eléctrica y además cuentan con otras fuentes de energía, como grupo electrógeno o baterías.",
+    "ruta": "/renovable/sistema-hibrido/"
+  },
+
+  {
+    "alt": "SISTEMA OFF GRID",
+    "thumbnail": "../assets/images/renovables-categorias/sistema_offgrid.jpg",
+    "titulo": "Energía silenciosa y sin combustibles, disponible las 24 hs",
+    "subtitulo": false,
+    "tituloGris": "Sistemas Off Grid",
+    "descripcion": "Son las instalaciones fotovoltaicas que están aisladas de la red eléctrica. Requieren almacenamiento de energía con baterías. Recupere su inversión en menos de tres años, construyendo su propio sistema de generación energética.",
+    "ruta": "/renovable/sistema-offgrid/"
+  }
+]
