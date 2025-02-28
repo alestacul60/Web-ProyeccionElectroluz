@@ -85,11 +85,7 @@ export const querySaneamiento = graphql`
           id
           titulo
           items
-          thumbnail {
-            childImageSharp {
-              gatsbyImageData(layout: FULL_WIDTH, placeholder: TRACED_SVG)
-            }
-          }
+          thumbnail
           alt
           ruta
         }

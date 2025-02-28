@@ -35,16 +35,7 @@ export const queryFabrica = graphql`
           subtitulo
           titulo
           ruta
-          img {
-            childImageSharp {
-              gatsbyImageData(
-                width: 150
-                layout: CONSTRAINED
-                height: 150
-                placeholder: BLURRED
-              )
-            }
-          }
+          img 
         }
       }
     }

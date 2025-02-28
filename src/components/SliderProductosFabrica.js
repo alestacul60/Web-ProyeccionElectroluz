@@ -40,7 +40,7 @@ const SliderProductosFabrica = data => {
               <Card key={index}>
                 <GatsbyImage
                   image={getImage(
-                    item.node.img.childImageSharp.gatsbyImageData
+                    item.node.img
                   )}
                   alt={item.node.alt}
                 />

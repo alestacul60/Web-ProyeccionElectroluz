@@ -75,6 +75,7 @@
     "ws": "^8.6.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.0",
     "gh-pages": "^3.2.3",
     "prettier": "^2.4.1"
   },
